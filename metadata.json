@@ -1,0 +1,6 @@
+{
+  "name": "CLARITY",
+  "description": "CLARITY 2.0 — Personal Intelligence Operating System combining CLARITY CORE multi-agent coordination, smart natural-language scheduling, decision intelligence, and life management.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
